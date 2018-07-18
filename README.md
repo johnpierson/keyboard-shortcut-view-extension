@@ -1,4 +1,6 @@
-# Sample Keyboard Shortcut View Extension for Dynamo 2.0.x
+# DISCLAIMER- This is the source code of a project in its early stages. This is in no way a finished product. In order to use, you will absolutely need to know what you are doing in visual studio and be prepeared for a bumpy ride.
+
+## Sample Keyboard Shortcut View Extension for Dynamo 2.0.x
 
 This sample is messy to say the least. But since seeing [other's](https://github.com/wynged/DynaFire) work on keyboard shortcuts with Dynamo, I though it would be neat to have buttons. Well, it turns out [Mark Thorley](https://github.com/MarkThorley/designtechViewExtension) is doing the same thing, so here is my code in its messy unrefined state.
 
