@@ -15,6 +15,6 @@ This sample is messy to say the least. But since seeing [other's](https://github
 ![Image](keyboardShortcuts.gif)
 
 
-### At this time I have no plans of developing this further because of the great progress Mark is making on his own solution.
+### Well, where is the issues page???? Like I said, at this time I have no plans of developing this further because of the great progress Mark is making on his own solution.
 
 KTHXBYE
