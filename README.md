@@ -1,4 +1,7 @@
-## DISCLAIMER- This is the source code of a project in its early stages. This is in no way a finished product. In order to use, you will absolutely need to know what you are doing in visual studio and be prepeared for a bumpy ride.
+## DISCLAIMER- This is the source code of a project in its early stages. This is in no way a finished product. In order to use, you will absolutely need to know what you are doing in visual studio and be prepared for a bumpy ride.
+
+![Image](https://media.giphy.com/media/OCu7zWojqFA1W/giphy.gif)
+
 
 # Sample Keyboard Shortcut View Extension for Dynamo 2.0.x
 
