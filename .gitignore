@@ -2,6 +2,5 @@
 *.lock
 src/.vs/KeyboardShortcutViewExtension/v15/.suo
 *.ide
-*.cs
 *.pdb
 packages
